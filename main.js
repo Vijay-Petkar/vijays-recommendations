@@ -15,10 +15,10 @@ const text = document.querySelector(".sec-text");
 
         const textLoad = () => {
             setTimeout(() => {
-                text.textContent = " Front-End  Developer";
+                text.textContent = " Executive Engineer";
             }, 0);
             setTimeout(() => {
-                text.textContent = " UI UX Designer";
+                text.textContent = " Stock Trader";
             }, 4000);
            
         }
